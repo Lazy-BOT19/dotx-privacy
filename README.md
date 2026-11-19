@@ -2,7 +2,7 @@
 
 **Effective Date:** November 19, 2026  
 **Application ID:** `com.dotx.azcontrol`  
-**Developer:** DotX Independent Development Team  
+**Developer Contact:** lazyapp.support@gmail.com  
 
 DotX : AZ Earbuds Control ("DotX", "the application", "we", "us") is an independent third-party companion utility designed for paired Bluetooth wireless earbuds.
 
@@ -48,6 +48,6 @@ DotX : AZ Earbuds Control is an independent third-party companion utility. It is
 
 ---
 
-## 7. Contact
-For any technical inquiries or assistance regarding DotX, please open an issue on the official GitHub repository:  
-https://github.com/dotx/azcontrol
+## 7. Contact & Support
+For any technical inquiries, feedback, or privacy-related questions regarding DotX : AZ Earbuds Control, please contact us directly by email:  
+**lazyapp.support@gmail.com**
